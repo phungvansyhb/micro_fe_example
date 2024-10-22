@@ -1,0 +1,20 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack server "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.3",
+    "faker": "^6.6.6",
+    "html-webpack-plugin": "^5.6.2",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  }
+}
